@@ -1,0 +1,3 @@
+56562|Westin	3.5
+783453|Holiday_Inn	3.4
+6564|Marriot	3
